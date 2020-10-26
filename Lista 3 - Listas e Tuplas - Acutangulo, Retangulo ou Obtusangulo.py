@@ -34,6 +34,9 @@ Entrada
 
 saída
 NAO
+
+no meio do caminho tinha uma pedra.
+
 """
 
 p1 = list(map(int, input().split())) 
