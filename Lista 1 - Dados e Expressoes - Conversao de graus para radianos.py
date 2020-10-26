@@ -19,6 +19,9 @@ Entrada:
 180
 Saída:
 3.141593
+
+No meio do caminho tinha uma pedra
+
 """
 import math
 
