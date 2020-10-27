@@ -17,6 +17,13 @@ Saída
 1
 605404800
 20
+
+“How happy is the blameless vestal’s lot!
+The world forgetting, by the world forgot.
+Eternal sunshine of the spotless mind!
+Each pray’r accepted, and each wish resign’d”
+
+
 """
 
 qnt = int(input())
