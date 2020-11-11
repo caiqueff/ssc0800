@@ -15,6 +15,9 @@ Entrada:
 -3 2
 Saída:
 9
+
+Tinha uma pedra no meio do caminho
+
 """
 
 a, b = list(map(int, input().split()))
